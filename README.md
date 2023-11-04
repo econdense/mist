@@ -1,7 +1,7 @@
-# mist
+# tidepool
 
-## From diffuse to concrete
+## Exploration to Knowledge
 
-Large unstructured data gathering
-
-
+- Spacy
+- FastAPI
+- EdgeDB
